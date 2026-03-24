@@ -23,4 +23,4 @@ Script สำหรับติดตั้งและตั้งค่า SNM
 รันคำสั่งด้านล่างนี้ใน Terminal ของเครื่อง Server ที่ต้องการติดตั้ง (ต้องมีสิทธิ์ Root หรือรันด้วย `sudo`)
 
 ```bash
-curl -sL [https://raw.githubusercontent.com/](https://raw.githubusercontent.com/)<YOUR-USERNAME>/<YOUR-REPO>/main/install_snmp.sh | sudo bash
+curl -sL https://raw.githubusercontent.com/Greedtik/install-SNMP-Linux/refs/heads/main/install_snmp.sh | sudo bash
